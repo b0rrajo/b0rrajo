@@ -1,3 +1,4 @@
+<picture> <img height="25%" width="25%" src= "https://github.com/b0rrajo/b0rrajo/blob/main/IMG_0128.JPG"> </picture>
 ### Hi there, this is my readme page 👋
 - 🔭 I’m currently working on 2 programs: [PayCraft](https://github.com/b0rrajo/PayCraft-Systems) and [XKsTOR](https://github.com/b0rrajo/XKSTOR) (repositories here)
 - 🌱 I’m currently learning how to do a discord bot 
@@ -7,6 +8,7 @@
 - ⚡ Fun fact: Nothing XDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
 
 Yes, I'm bored
+Yes, I like graphic design and also draw stikmans ;)
 
 <!--
 **b0rrajo/b0rrajo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
