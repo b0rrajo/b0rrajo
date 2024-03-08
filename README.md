@@ -8,7 +8,10 @@
 - ⚡ Fun fact: Nothing XDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
 
 Yes, I'm bored
+
 Yes, I like graphic design and also draw stikmans ;)
+
+<sub>This page was updated on 09/03/2024 at 12:27 AM</sub>
 
 <!--
 **b0rrajo/b0rrajo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
