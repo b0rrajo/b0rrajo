@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there, this is my readme page 👋
+- 🔭 I’m currently working on 2 programs: PayCraft and XKsTOR (repositories here)
+- 🌱 I’m currently learning how to do a discord bot 
+- 💬 Ask me about for all thing that you need
+- 📫 How to reach me: on discord
+- 😄 Pronouns: He/his
+- ⚡ Fun fact: Nothing XDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+
+Yes, I'm bored
 
 <!--
 **b0rrajo/b0rrajo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
