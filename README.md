@@ -1,4 +1,10 @@
+<div style="display: flex; flex-direction: column; font-weight: bolder;">
 <picture> <img height="25%" width="25%" src= "https://github.com/b0rrajo/b0rrajo/blob/main/IMG_0128.JPG"> </picture>
+<picture> <img width=300 title="Github README Stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=b0rrajo&layout=compact&langs_count=8&card_width=320&theme=catppuccin_mocha&">📊 Languages Graph</picture>
+</div>
+
+---
+
 ### Hi there, this is my readme page 👋
 - 🔭 I’m currently working on 2 programs: [PayCraft](https://github.com/b0rrajo/PayCraft-Systems) and [XKsTOR](https://github.com/b0rrajo/XKsTOR) (repositories here)
 - 🌱 I’m currently learning how to do a discord bot 
