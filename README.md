@@ -1,6 +1,7 @@
 <div style="display: flex; flex-direction: column; font-weight: bolder;">
 <picture> <img height="25%" width="25%" src= "https://github.com/b0rrajo/b0rrajo/blob/main/IMG_0128.JPG"> </picture>
-<picture> <img width=300 title="Github README Stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=b0rrajo&layout=compact&langs_count=8&card_width=320&theme=catppuccin_mocha&">📊 Languages Graph</picture>
+<picture> <img width=300 title="My most used languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=b0rrajo&layout=compact&langs_count=8&card_width=320&theme=catppuccin_mocha&"></picture>
+<picture> <img width=347 title="My Stats" src="https://github-readme-stats.vercel.app/api?username=b0rrajo&show_icons=true&theme=catppuccin_mocha&card_width=320&"/></picture>
 </div>
 
 ---
