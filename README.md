@@ -1,6 +1,6 @@
 <picture> <img height="25%" width="25%" src= "https://github.com/b0rrajo/b0rrajo/blob/main/IMG_0128.JPG"> </picture>
 ### Hi there, this is my readme page 👋
-- 🔭 I’m currently working on 2 programs: [PayCraft](https://github.com/b0rrajo/PayCraft-Systems) and [XKsTOR](https://github.com/b0rrajo/XKSTOR) (repositories here)
+- 🔭 I’m currently working on 2 programs: [PayCraft](https://github.com/b0rrajo/PayCraft-Systems) and [XKsTOR](https://github.com/b0rrajo/XKsTOR) (repositories here)
 - 🌱 I’m currently learning how to do a discord bot 
 - 💬 Ask me about for all thing that you need
 - 📫 How to reach me: [Discord](https://discordapp.com/users/698132997601361970)
