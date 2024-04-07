@@ -7,6 +7,7 @@
 ---
 
 ### Hi there, this is my readme page 👋
+- 🗣️ My languages: 
 - 🔭 I’m currently working on 2 programs: [PayCraft](https://github.com/b0rrajo/PayCraft-Systems) and [XKsTOR](https://github.com/b0rrajo/XKsTOR) (repositories here)
 - 🌱 I’m currently learning how to do a discord bot called [BOOTIC](https://github.com/b0rrajo/BOTTIC) (GitHub repository avaliable soon)
 - 💬 Ask me about for all thing that you need
