@@ -8,7 +8,7 @@
 
 ### Hi there, this is my readme page 👋
 - 🗣️ My languages: 
-- 🔭 I’m currently working on 2 programs: [PayCraft](https://github.com/b0rrajo/PayCraft-Systems) and [XKsTOR](https://github.com/b0rrajo/XKsTOR) (repositories here)
+- 🔭 I’m currently working on 3 programs: [PayCraft](https://github.com/b0rrajo/PayCraft-Systems), [XKsTOR](https://github.com/b0rrajo/XKsTOR) and [Register Bot](https://github.com/b0rrajo/Register-Bot) (repositories here)
 - 🌱 I’m currently learning how to do a discord bot called [BOOTIC](https://github.com/b0rrajo/BOTTIC) (GitHub repository avaliable soon)
 - 💬 Ask me about for all thing that you need
 - 📫 How to reach me: [Discord](https://discordapp.com/users/698132997601361970)
@@ -19,7 +19,7 @@ Yes, I'm getting bored
 
 Yes, I like graphic design and also draw stikmans ;)
 
-<sub>This page was updated on 11/03/2024 at 15:34 PM</sub>
+<sub>This page was updated on 13/08/2024 at 17:20 PM</sub>
 
 <!--
 **b0rrajo/b0rrajo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
