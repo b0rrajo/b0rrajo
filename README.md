@@ -1,18 +1,37 @@
-# MY GITHUB'S README 👋 | ![](https://komarev.com/ghpvc/?username=b0rrajo&color=blue&style=flat-square)
-<picture> <img width=312 title="My Stats" src="https://github-readme-stats.vercel.app/api?username=b0rrajo&show_icons=true&theme=catppuccin_mocha&card_width=320&"/></picture>
-<picture> <img width=317 title="My most used languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=b0rrajo&layout=compact&langs_count=8&card_width=320&theme=catppuccin_mocha&"></picture>
-### Herramientas y lenguajes
-&ensp;![Git](https://img.shields.io/badge/-Git-3E2C00?style=flat-square&logo=Git)
-&ensp;![Visual Studio Code](https://img.shields.io/badge/-VsCode-2C2C32?style=flat-square&logo=visual-studio-code&logoColor=0078D7)
+<div align="center">
 
+# MY GITHUB'S README 👋 | ![Profile views](https://komarev.com/ghpvc/?username=b0rrajo&color=blue)
+
+<table>
+  <tr>
+  <td> 
+  <img src="https://github-readme-stats.vercel.app/api?username=b0rrajo&show_icons=true&theme=dark" width="312"/>
+  </td>
+  <td>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=b0rrajo&layout=compact&theme=dark" width="317"/>
+  </td>
+  <td>
+<p align="right">
   <picture> <img height="48" width="48" title="Javascript" src="https://skillicons.dev/icons?i=javascript" /> </picture>
     <picture> <img height="48" width="48" title="Node.js" src="https://skillicons.dev/icons?i=nodejs" /> </picture>
     <picture> <img height="48" width="48" title="C++" src="https://skillicons.dev/icons?i=cpp" /> </picture>
-    <picture> <img height="48" width="48" title="C#" src="https://skillicons.dev/icons?i=cs" /> </picture>
+<p align="right">
+  <picture> <img height="48" width="48" title="C#" src="https://skillicons.dev/icons?i=cs" /> </picture>
     <picture> <img height="48" width="48" title="Markdown" src="https://skillicons.dev/icons?i=markdown" /> </picture>
     <picture> <img height="48" width="48" title="Git" src="https://skillicons.dev/icons?i=git" /> </picture>
-    <picture> <img height="48" width="48" title="Linux" src="https://skillicons.dev/icons?i=linux" /> </picture>
+<p align="right">
+  <picture> <img height="48" width="48" title="Linux" src="https://skillicons.dev/icons?i=linux" /> </picture>
     <picture> <img height="48" width="48" title="Windows" src="https://skillicons.dev/icons?i=windows" /> </picture>
+  </p>
+  </td>
+  </tr>
+</table>
+</div>
+<div align="center">
+
+### Herramientas &ensp;![Git](https://img.shields.io/badge/-Git-3E2C00?style=flat-square&logo=Git) &ensp;![Visual Studio Code](https://img.shields.io/badge/-VsCode-2C2C32?style=flat-square&logo=visual-studio-code&logoColor=0078D7)
+</div>
+
 ---
 ### General
 - 😄 **Pronombres**: He/his
