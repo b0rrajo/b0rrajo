@@ -33,7 +33,14 @@
 </div>
 
 ---
+
+### ACTUALMENTE TRABAJANDO EN: [PAKETS 📦](https://github.com/b0rrajo/PAKETS)
+
+---
 ### General
+
+
+
 - 😄 **Pronombres**: He/his
 - 🗣️ **Idiomas**: ES GL DE EN
 - 🔭 Ando desarrollando 3 cosas: [PayCraft](https://github.com/b0rrajo/PayCraft-Systems), [XKsTOR](https://github.com/b0rrajo/XKsTOR) y [Register Bot](https://github.com/b0rrajo/Register-Bot) (repositorios aquí)
@@ -48,7 +55,7 @@
 - Trenes (los modernos de ahora)
 - etc...
     
-<sub>This page was updated on 30/09/2024 at 10:45 AM</sub>
+<sub>This page was updated on 11/11/2025 at 05:18 PM</sub>
 
 <!--
 **b0rrajo/b0rrajo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
