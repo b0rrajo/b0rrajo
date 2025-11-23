@@ -29,7 +29,7 @@
 </div>
 <div align="center">
 
-### Herramientas &ensp;![Git](https://img.shields.io/badge/-Git-3E2C00?style=flat-square&logo=Git) &ensp;![Visual Studio Code](https://img.shields.io/badge/-VsCode-2C2C32?style=flat-square&logo=visual-studio-code&logoColor=0078D7)
+### Herramientas &ensp;![Git](https://img.shields.io/badge/-Git-3E2C00?style=flat-square&logo=Git) &ensp;![Visual Studio Code](https://img.shields.io/badge/-VsCode-23a8f2?style=flat-square&logo=visual-studio-code&logoColor=23a8f2) &ensp;![Visual Studio](https://img.shields.io/badge/-VisualStudio-d05ef5?style=flat-square&logo=visual-studio&logoColor=d05ef5)
 </div>
 
 ---
