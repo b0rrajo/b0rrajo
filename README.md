@@ -32,9 +32,13 @@
 ### Herramientas &ensp;![Git](https://img.shields.io/badge/-Git-3E2C00?style=flat-square&logo=Git) &ensp;![Visual Studio Code](https://img.shields.io/badge/-VsCode-23a8f2?style=flat-square&logo=visual-studio-code&logoColor=23a8f2) &ensp;![Visual Studio](https://img.shields.io/badge/-VisualStudio-d05ef5?style=flat-square&logo=visual-studio&logoColor=d05ef5)
 </div>
 
+> [!NOTE]
+> Las stats de las 2 primeras celdas a veces no van porque el propio enlace de Vercel se cae (motivo?, no lo sé)
+
 ---
 
-### ACTUALMENTE TRABAJANDO EN: [PAKETS 📦](https://github.com/b0rrajo/PAKETS)
+### <i>ACTUALLY WORKING ON:</i> Mis proyectos de la FP Dual Superior
+- [Web lima DAM FP DUAL](https://github.com/b0rrajo/moratwebdamdual)
 
 ---
 ### General
