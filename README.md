@@ -46,7 +46,7 @@
 
 
 
-- 😄 **Pronombres**: He/his
+- 😄 **Pronombres**: He/him
 - 🗣️ **Idiomas**: ES GL DE EN
 - 🔭 Ando desarrollando 3 cosas: [PayCraft](https://github.com/b0rrajo/PayCraft-Systems), [XKsTOR](https://github.com/b0rrajo/XKsTOR) y [Register Bot](https://github.com/b0rrajo/Register-Bot) (repositorios aquí)
 - 🌱 Aprendiendo a hacer un bot de discord, [BOOTIC](https://github.com/b0rrajo/BOTTIC) (Repositorio vacío por ahora)
