@@ -1,31 +1,25 @@
 <div align="center">
 
 # MY GITHUB'S README 👋 | ![Profile views](https://komarev.com/ghpvc/?username=b0rrajo&color=blue)
+</div>
+<div align="center">
+  
+|  |  |  |  |  |  
+|---|---|---|---|---|
+| <img height="48" width="48" title="Javascript" src="https://skillicons.dev/icons?i=javascript" /> | <img height="48" width="48" title="Node.js" src="https://skillicons.dev/icons?i=nodejs" /> | <img height="48" width="48" title="C++" src="https://skillicons.dev/icons?i=cpp" /> | <img height="48" width="48" title="C#" src="https://skillicons.dev/icons?i=cs" /> | <img height="48" width="48" title="Markdown" src="https://skillicons.dev/icons?i=markdown" /> |
+| <img height="48" width="48" title="Git" src="https://skillicons.dev/icons?i=git" /> | <img height="48" width="48" title="Linux" src="https://skillicons.dev/icons?i=linux" /> | <img height="48" width="48" title="Windows" src="https://skillicons.dev/icons?i=windows" /> |  |  |
 
 <table>
-  <tr>
-  <td> 
-  <img src="https://github-readme-stats.vercel.app/api?username=b0rrajo&show_icons=true&theme=dark" width="312"/>
-  </td>
-  <td>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=b0rrajo&layout=compact&theme=dark" width="317"/>
-  </td>
-  <td>
-<p align="right">
-  <picture> <img height="48" width="48" title="Javascript" src="https://skillicons.dev/icons?i=javascript" /> </picture>
-    <picture> <img height="48" width="48" title="Node.js" src="https://skillicons.dev/icons?i=nodejs" /> </picture>
-    <picture> <img height="48" width="48" title="C++" src="https://skillicons.dev/icons?i=cpp" /> </picture>
-<p align="right">
-  <picture> <img height="48" width="48" title="C#" src="https://skillicons.dev/icons?i=cs" /> </picture>
-    <picture> <img height="48" width="48" title="Markdown" src="https://skillicons.dev/icons?i=markdown" /> </picture>
-    <picture> <img height="48" width="48" title="Git" src="https://skillicons.dev/icons?i=git" /> </picture>
-<p align="right">
-  <picture> <img height="48" width="48" title="Linux" src="https://skillicons.dev/icons?i=linux" /> </picture>
-    <picture> <img height="48" width="48" title="Windows" src="https://skillicons.dev/icons?i=windows" /> </picture>
-  </p>
-  </td>
-  </tr>
+    <tr>
+        <td> 
+            <img src="https://github-readme-stats.vercel.app/api?username=b0rrajo&show_icons=true&theme=dark" width="414"/>
+        </td>
+        <td>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=b0rrajo&layout=compact&theme=dark" width="317"/>
+        </td>
+    </tr>
 </table>
+
 </div>
 <div align="center">
 
@@ -61,18 +55,3 @@
 - etc...
     
 <sub>This page was updated on 16/04/2026 at 11:05 PM</sub>
-
-<!--
-**b0rrajo/b0rrajo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
