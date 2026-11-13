@@ -42,7 +42,7 @@
 
 - 😄 **Pronombres**: He/him
 - 🗣️ **Idiomas**: ES GL DE EN
-- 🔭 Ando desarrollando 3 cosas: [PayCraft](https://github.com/b0rrajo/PayCraft-Systems), [XKsTOR](https://github.com/b0rrajo/XKsTOR) y [Register Bot](https://github.com/b0rrajo/Register-Bot) (repositorios aquí)
+- 🔭 Ando desarrollando 3 cosas: [PayCraft](https://github.com/b0rrajo/PayCraft-Systems) y [XKsTOR](https://github.com/b0rrajo/XKsTOR) (repositorios aquí)
 - 🌱 Aprendiendo a hacer un bot de discord, [BOOTIC](https://github.com/b0rrajo/BOTTIC) (Repositorio vacío por ahora)
 - 📫 Donde encontrarme: [Discord](https://discordapp.com/users/698132997601361970) [X (antes Twiter)](https://x.com/b0rrajo)
 - 💬 No suelo hablar tanto pero me puedes escribir
@@ -50,7 +50,7 @@
 - [Diseño gráfico](https://github.com/b0rrajo/b0rrajo/blob/main/IMG_0128.JPG)
 - [Stickmans](https://avatars.githubusercontent.com/u/119629992?s=400&u=11701dad86735a89b1f1000710f09ecc6a9f2fbf&v=4)
 - Desmontar Ordenadores
-- [Eurovisión](https://eurovision.tv)
+- [Eurovisión](https://www.eurovision.com/)
 - Trenes (los modernos de ahora)
 - etc...
     
