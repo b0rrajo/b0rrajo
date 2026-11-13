@@ -33,6 +33,7 @@
 ### <i>ACTUALLY WORKING ON:</i> Mis proyectos de la FP Dual Superior
 - [JDBC-SQLITE](https://github.com/b0rrajo/jdbc-sqlite-Acceso-a-datos-2026)
 - [PAKETS](https://github.com/Pakets-Org/PAKETS)
+- [CRISIS, el proyecto intermodular](https://github.com/b0rrajo/Crisis)
 
 ---
 ### General
